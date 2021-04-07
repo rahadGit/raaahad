@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **biologyhaters v1.0**
 
-- 🌱 I’m currently learning **Data**
+- 🌱 I’m currently learning **Machine learning*
 
 - 👨‍💻 All of my projects are available at [https://github.com/raaahad](https://github.com/raaahad)
 
