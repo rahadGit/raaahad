@@ -1,8 +1,6 @@
 <h1 align="center">Hi , it's raaahad</h1>
 <h3 align="center">A passionate frontend, backend developer</h3>
 
-- 🔭 I’m currently working on **biologyhaters v1.0**
-
 - 🌱 I’m currently learning **Machine learning*
 
 - 👨‍💻 All of my projects are available at [https://github.com/raaahad](https://github.com/raaahad)
