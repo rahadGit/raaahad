@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/raaahad](https://github.com/raaahad)
 
-- 📝 I regularly write articles on [surgitech-bd](surgitech-bd)
-
 - 💬 Ask me about **php, jquery, c++, java**
 
 - 📫 How to reach me **raaahad@yahoo.com**
