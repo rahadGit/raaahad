@@ -1,5 +1,5 @@
 <h1 align="center">Hi , it's raaahad</h1>
-<h3 align="center">A passionate frontend, backend developer</h3>
+<h3 align="center">() ? true : true</h3>
 
 - 🌱 I’m currently learning **Machine learning*
 
