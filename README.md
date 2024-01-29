@@ -1,9 +1,9 @@
-<h1 align="center">Hi , it's raaahad</h1>
+<h1 align="center">Hi , it's rahad</h1>
 <h3 align="center">( ) ? true : true;</h3>
 
 - 🌱 I’m currently learning **Machine learning*
 
-- 👨‍💻 All of my projects are available at [https://github.com/raaahad](https://github.com/raaahad)
+- 👨‍💻 All of my projects are available at [https://github.com/raaahad](https://github.com/rahadGit)
 
 - 💬 Ask me about **php, jquery, c++, java**
 
@@ -11,7 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/raaahad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raaahad" height="30" width="40" /></a>
+<a href="https://instagram.com/raaahad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahad" height="30" width="40" /></a>
 
 </p>
 
